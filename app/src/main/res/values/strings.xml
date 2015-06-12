@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Dominos Pizza</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="publicidad1">DESCUBRE LA PIZZA QUE MÁS TE GUSTA</string>
+    <string name="publicidad2">EN NUESTRO MENU DE DOMINOS</string>
+
+    <string name="mapa">Mapa</string>
+
+    <string name="Sedes">Sedes</string>
+    <string name="Agregar">Agregar Sede</string>
+    <string name="Eliminar">Eliminar Sede</string>
+    <string name="Actualizar">Actualizar Sede</string>
+    <string name="Ing_nomb">Nombre de la Sede</string>
+    <string name="Ing_lat">Latitud</string>
+    <string name="Ing_lon">Longitud</string>
+    <string name="Ver_sedes">Ver Sedes</string>
+
+    <string name="tAviso">Aplicación con bases de datos y mapas del restaurante Dominos Pizza</string>
+    <string name="tAviso2">Desarrollada por: Santiago Londoño Jiménez</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_sedes">Sedes</string>
+    <string name="title_activity_maps">Ubicación</string>
+    <string name="title_activity_activity_about">Acerca de</string>
+
+    <string name="agregado">Agregada</string>
+    <string name="eliminada">Eliminada</string>
+    <string name="actualizada">Actualizada</string>
+    <string name="actual">Usted está aquí</string>
+
+
+</resources>
